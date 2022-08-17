@@ -21,7 +21,7 @@ export default siteConfig({
   // github: 'transitive-bullshit',
   // linkedin: 'fisch2',
   newsletter: 'https://futurarch.substack.com',
-  youtube: 'https://www.youtube.com/channel/UCvvBBK3yj-ZZgKnEBJrg7RQ`,
+  youtube: 'https://www.youtube.com/channel/UCvvBBK3yj-ZZgKnEBJrg7RQ',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
