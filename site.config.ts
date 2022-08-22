@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   // twitter: 'transitive_bs',
   // github: 'transitive-bullshit',
-  // linkedin: 'fisch2',
+  linkedin: 'company/futur-arch',
   newsletter: 'https://futurarch.substack.com',
   youtube: 'channel/UCvvBBK3yj-ZZgKnEBJrg7RQ',
 
